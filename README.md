@@ -30,7 +30,7 @@ Skills:  REACT / JS / HTML / CSS/Tailwind CSS/Boostsrap/MongoDB/Express/Firebase
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur-rahman-10&show_icons=true&locale=en&layout=compact" alt="ashikur-rahman-10" /></p>
+<p margin-top="20px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur-rahman-10&show_icons=true&locale=en&layout=compact" alt="ashikur-rahman-10" /></p>
 
 
 
