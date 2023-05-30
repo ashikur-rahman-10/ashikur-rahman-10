@@ -15,7 +15,8 @@ Skills:  REACT / JS / HTML / CSS/Tailwind CSS/Boostsrap/MongoDB/Express/Firebase
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashikur-rahman-10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashik.xuvo.0)  
+</h3>
 <p align="left">
 </p>
 
@@ -27,14 +28,9 @@ Skills:  REACT / JS / HTML / CSS/Tailwind CSS/Boostsrap/MongoDB/Express/Firebase
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-rahman-10&" alt="ashikur-rahman-10" /></p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashikur-rahman-10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashik.xuvo.0)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-rahman-10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikur-rahman-10)  
-
-![GitHub metrics](https://metrics.lecoq.io/ashikur-rahman-10)  
 
 
 
