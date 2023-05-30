@@ -1,9 +1,9 @@
-![Front-End Developer , Self-Learner. -Student at Computer Science & Engineer](https://previews.dropbox.com/p/thumb/AB67OXPE-yvDNBJgzHMq4hY4khDzC5rWjqAB8BWY2G_eaR4NdiJ65Jxi6vIJvtumeZiXupeqMrQ4P5y8cHCUPja7DXZjGQuqnExgtStv03q8LPcuB9OHShkCjfYzGjz46r623ul33T7OfsVH-IdB7yNRl84ZQl_McPAFjpFBwgNdVMHiJrHM8KgQvgdh0o0qLjFS_n7UtMDUuvDRTQtJ6hopm2ExP518ZeMIpQVEnH3bzMQabVURMugVIwgkBRMPSSUymjHvXYpsC8DDX3yY4tK7ia_ykxtmifN-tKuLewDXSHwB2UIuh2vEKRaAfu3FlVM9I0_VBJOZlF1llyFYGpeWEy7u7mIXLxi_SkZ3xPf9C5A5wuvyALbnLdAQr61TIZg/p.jpeg)
+![Front-End Developer , Self-Learner. -Student at Computer Science & Engineer](https://i.ibb.co/ts4tJJH/Picsart-23-05-30-13-15-58-105.jpg)
 
 ### Hi there 👋 I'm Ashikur Rahman
 #### Front-End Developer , Self-Learner. -Student at Computer Science & Engineer
 
-Md. Ashikur Rahman
+
 🎓 CSE Student | 💻 Front-end Web Developer
 
 Passionate front-end web developer and CSE student. Dedicated to creating visually appealing and user-friendly websites. Proficient in HTML, CSS, and JavaScript,React.js,MongoDB,Express.js. Open to new challenges and thrive in collaborative environments.
